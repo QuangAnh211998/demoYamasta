@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367837761856",
+    "project_id": "fir-yamasta",
+    "storage_bucket": "fir-yamasta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367837761856:android:eb6ae22f8311d5d64c2aa5",
+        "android_client_info": {
+          "package_name": "com.example.demoyamasta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACe6uSvQNlm1a3_mdAwHS5uMPTJ0nIXXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367837761856:android:4c7f544d25348c8f4c2aa5",
+        "android_client_info": {
+          "package_name": "com.example.ga4demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACe6uSvQNlm1a3_mdAwHS5uMPTJ0nIXXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
